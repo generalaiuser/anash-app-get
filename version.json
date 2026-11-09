@@ -1,11 +1,11 @@
 {
- "versionCode": 2027,
+ "versionCode": 2028,
  "versionName": "1.1.0",
- "build": "B2027",
+ "build": "B2028",
  "sizeBytes": 56330412,
- "sha256": "b7c0db89996613b719b61fd9f29e87ccc6262620b5de516a60f07d4716f0e655",
+ "sha256": "2f9dbd221e6d751ddcb71dcc5aa58c3db22bf7c2d232e65decb17cff6bad3fde",
  "signerSha256": "F7A5367E7629BF0454A923FBCE265239F11856DE45E9B17BFD5D55CDB7A98522",
  "published": "2026-11-09",
  "apk": "https://github.com/generalaiuser/anash-app-get/releases/latest/download/anash-app.apk",
- "release": "https://github.com/generalaiuser/anash-app-get/releases/tag/b2027"
+ "release": "https://github.com/generalaiuser/anash-app-get/releases/tag/b2028"
 }
